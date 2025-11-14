@@ -1,0 +1,1 @@
+cv2.rectangle(im,(x,y),(x+w,y+h),(225,0,0),2)
