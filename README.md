@@ -6,6 +6,4 @@
 
 ![Face_Recognition_for_Attendance 6_7_2020 7_44_23 PM](https://user-images.githubusercontent.com/53042582/83971203-bed15600-a8f7-11ea-9c91-90d43aa31b4f.png)
 
-![frame 6_7_2020 7_49_28 PM](https://user-images.githubusercontent.com/53042582/83971260-25567400-a8f8-11ea-9f14-f024ad79ae42.png)
-
 [finallll report.pdf](https://github.com/iyashjayesh/STUDENT-ATTENDENCE-USING-FACE-RECOGNITION/files/4741994/finallll.report.pdf)
